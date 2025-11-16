@@ -100,7 +100,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fraud-detection-analysis.git
+git clone https://github.com/Codewithaiyan/fraud-detection-analysis.git
 cd fraud-detection-analysis
 ```
 
